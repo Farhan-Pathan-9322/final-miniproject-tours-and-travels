@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+  }
+  body {
+   background-color: rgb(169, 204, 222);;
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+}
+.h3{
+    color: rgb(0, 0, 0);}
