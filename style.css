@@ -14,7 +14,7 @@
 }
 
 body {
-  background: none;
+  background: rgba(247, 127, 185, 0.8);
 }
 
 @media (min-width: 768px) {
