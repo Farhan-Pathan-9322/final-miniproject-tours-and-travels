@@ -84,8 +84,7 @@ html{
   }
   
   header{
-    position: fixed;
-    top:0; left: 0; right:0;
+   
     background:rgb(20, 43, 55);
     z-index: 1000;
     display: flex;
