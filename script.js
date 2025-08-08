@@ -41,6 +41,7 @@ videoBtn.forEach(btn =>{
 });
 // Function to animate the boxes when the page loads
 function animateBoxes() {
+    
     // Select all the box elements
     let boxes = document.querySelectorAll('.box');
 
@@ -101,5 +102,6 @@ var swiper = new Swiper(".brand-slider", {
         },
       },
 });
+
 
 
